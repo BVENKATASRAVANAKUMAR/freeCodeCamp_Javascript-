@@ -32,6 +32,7 @@ Tested the cipher with various input messages and decryption keys to validate fu
 Certification Achieved:
 With the successful completion of these projects and a demonstrated mastery of JavaScript fundamentals, algorithms, and data structures, I've earned the prestigious JavaScript Algorithm and Data Structures certification from freeCodeCamp.
 This certification serves as a testament to my expertise in JavaScript programming and positions me for further success in the field of software development.
+LINK:https://www.freecodecamp.org/certification/bvenkatasravanakumar/javascript-algorithms-and-data-structures
 
 Next Steps:
 Armed with this certification and newfound expertise, I eagerly anticipate pursuing opportunities in web development, software engineering, and related domains.
